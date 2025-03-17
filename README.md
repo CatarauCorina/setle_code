@@ -14,7 +14,7 @@ The repository contains key components for task representation and neo4j databas
 ### **2. Outcome Exploration & Database Population**
 - Located in the **`outcome_exploration.py`** file.
 - Includes scripts for populating the database and exploring outcomes using structured representations.
-- You can view the SET structures also by loadind outcomesmall.dump into an Aura DB or local Neo4j instance
+- You can view a demo of a few SET structures also by loadind outcomesmall.dump into an Aura DB or local Neo4j instance
 - To get the SET representation of an episode in neo4j you can run this query:
   
 ```
